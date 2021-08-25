@@ -165,6 +165,5 @@
          ],
          "correct_option":"bear"
       }
-   ],
- 
+   ]
 }
