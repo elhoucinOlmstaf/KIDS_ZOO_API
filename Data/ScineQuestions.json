@@ -3,7 +3,7 @@
     {
       "Question": "What is a tornado’s favorite game to play?",
       "ImageUrl": "https://www.sciencefun.org/wp-content/uploads/2012/12/tornado.png",
-      "options": ["", "WITH A SEE SAW!", "TWISTER", ""],
+      "options": ["A palm tree!", "WITH A SEE SAW!", "TWISTER", "Y ITS BARK!"],
       "correct_option": "TWISTER"
     },
     {
