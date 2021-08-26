@@ -54,7 +54,7 @@
     {
       "Question": "Where do astronauts leave their spaceships?",
       "ImageUrl": "https://www.sciencefun.org/wp-content/uploads/2012/12/spaceshuttle.png",
-      "option": [
+      "options": [
         "On flying saucers!",
         "Fsh!",
         "At parking meteors",
@@ -65,7 +65,7 @@
     {
       "Question": "Where is a rabbit’s favorite place to eat?",
       "ImageUrl": "https://www.sciencefun.org/wp-content/uploads/2012/12/rabbit.png",
-      "option": ["You Rocket!", "At parking meteors", "No I deer!", "Ihop!"],
+      "options": ["You Rocket!", "At parking meteors", "No I deer!", "Ihop!"],
       "correct_option": "Ihop!"
     },
     {
