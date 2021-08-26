@@ -4,10 +4,10 @@
          "id":1,
          "ImageUrl":"https://www.englishclub.com/images/kids/quizzes/animals-1/dog.png",
          "options":[
-            "sheep",
-            "elephant",
-            "frog",
-            "dog"
+            "59",
+            "40",
+            "7",
+            "10"
          ],
          "correct_option":"dog"
       },
@@ -15,10 +15,10 @@
          "id":2,
          "ImageUrl":"https://www.englishclub.com/images/kids/quizzes/animals-1/duck.png",
          "options":[
-            "monkey",
-            "duck",
-            "dog",
-            "panda"
+            "3",
+            "12",
+            "18",
+            "72"
          ],
          "correct_option":"duck"
       },
