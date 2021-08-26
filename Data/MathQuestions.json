@@ -1,7 +1,7 @@
 {
     "MathQuizeQuestions":[
        {
-          "id":1,
+          "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math1.png",
           "options":[
              "sheep",
@@ -12,7 +12,7 @@
           "correct_option":"dog"
        },
        {
-          "id":2,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math2.png",
           "options":[
              "monkey",
@@ -23,7 +23,7 @@
           "correct_option":"duck"
        },
        {
-          "id":3,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math3.png",
           "options":[
              "frog",
@@ -34,7 +34,7 @@
           "correct_option":"frog"
        },
        {
-          "id":4,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math4.png",
           "options":[
              "sheep",
@@ -45,7 +45,7 @@
           "correct_option":"elephant"
        },
        {
-          "id":5,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math5.png",
           "options":[
              "sheep",
@@ -56,7 +56,7 @@
           "correct_option":"sheep"
        },
        {
-          "id":6,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math6.png",
           "options":[
              "sheep",
@@ -67,7 +67,7 @@
           "correct_option":"panda"
        },
        {
-          "id":7,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math7.png",
           "options":[
              "rabbit",
@@ -78,7 +78,7 @@
           "correct_option":"pig"
        },
        {
-          "id":8,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math8.png",
           "options":[
              "panda",
@@ -89,7 +89,7 @@
           "correct_option":"penguin"
        },
        {
-          "id":9,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math9.png",
           "options":[
              "rabbit",
@@ -100,7 +100,7 @@
           "correct_option":"rabbit"
        },
        {
-          "id":10,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math10.png",
           "options":[
              "sheep",
@@ -111,7 +111,7 @@
           "correct_option":"cow"
        },
        {
-          "id":11,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math12.png",
           "options":[
              "lion",
@@ -122,7 +122,7 @@
           "correct_option":"lion"
        },
        {
-          "id":12,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math13.png",
           "options":[
              "sheep",
@@ -133,7 +133,7 @@
           "correct_option":"horse"
        },
        {
-          "id":13,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math14.png",
           "options":[
              "panda",
@@ -144,7 +144,7 @@
           "correct_option":"cat"
        },
        {
-          "id":14,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"https://elhoucinolmstaf.github.io/KIDS_ZOO_API/Images/MathQuizeImages/math11.png",
           "options":[
              "cow",
@@ -155,7 +155,7 @@
           "correct_option":"camel"
        },
        {
-          "id":15,
+         "Question":"Solve this if you are genius",
           "ImageUrl":"15",
           "options":[
              "bear",
