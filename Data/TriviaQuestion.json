@@ -1,7 +1,164 @@
 {
-    "TriviaQuestion":[
-        {
-            "Question": ""
-        }
-    ]
+  "TriviaQuestion": [
+    {
+      "Question": "What is the name of this historical structure which is located in Piazza del Duomo, Italy:",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/02/leaning-tower-of-pisa-picture-quiz-question.jpg",
+      "options": [
+        "Colosseum",
+        "Leaning Tower of Pisa",
+        "Milan Cathedral",
+        "Ponte Vecchio"
+      ],
+      "correct_option": "Leaning Tower of Pisa"
+    },
+    {
+      "Question": "This famous statue located in New York City is referred to as:",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/02/statue-of-liberty-photo-trivia-question.jpg",
+      "options": [
+        "Spring Temple Buddha",
+        "Christ the Redeemer",
+        "Lion-man",
+        "Statue of Liberty"
+      ],
+      "correct_option": "Statue of Liberty"
+    },
+    {
+      "Question": "The structure below located in the Middle East was built thousands of years ago, and still stands today",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/egyptian-pyramid-photo-quiz-1170x773.jpg",
+      "options": [
+        "Pharaoh’s Tomb",
+        "oseph’s Tomb",
+        "Mecca Temple",
+        "Egyptian Pyramid"
+      ],
+      "correct_option": "Egyptian Pyramid"
+    },
+    {
+      "Question": "The highest mountain in the world, standing at 8,848 meters and 29,029 feet, with 145 attempts to climb it.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/mount-everest-picture-quiz-1170x781.jpg",
+      "options": [
+        "Makalu",
+        "Nanga Parbat",
+        "Himalayan Mountains",
+        "Mount Everest"
+      ],
+      "correct_option": "Mount Everest"
+    },
+    {
+      "Question": "This is longest wall in the world and has a main-line length of 3,460 km (2,150 miles – nearly three times the length of Britain – plus 3,530 km (2,193 miles) of branches and spurs.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/great-wall-of-china-photo-quiz-1170x780.jpg",
+      "options": [
+        "Kumbhalgarh Fort",
+        "Great Wall of China",
+        "Amer Fort Jaipur",
+        "Ancient Walls of Mesopotamia"
+      ],
+      "correct_option": "Great Wall of China"
+    },
+    {
+      "Question": " This famed area is located in the mountains, at more than 2,400 metres/8,000 feet above sea level. This ruin site has more than 200 different buildings and structures.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/machu-picchu-photo-trivia-quiz-1170x612.jpg",
+      "options": [
+        "Machu Picchu",
+        "Nazca Lines",
+        "Choquequirao",
+        "Chichen Itza"
+      ],
+      "correct_option": "Machu Picchu"
+    },
+    {
+      "Question": "In 1632 the emperor, Shah Jahan instructed to build a tomb for his favorite wife, Mumtaz Mahal. They used 20,000 workers and 1000 elephants.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/taj-mahal-photo-quiz-1170x780.jpg",
+      "options": [
+        "The Red Taj",
+        "Mizo Taj",
+        "The Taj Mahal",
+        "Bibi Ka Maqbara"
+      ],
+      "correct_option": "The Taj Mahal"
+    },
+    {
+      "Question": "The opera house was designed by Jørn Utzon from Denmark and it was built between 1959 and 1973, with over 1 million roof tiles.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/sydney-opera-house-photo-quiz-1170x780.jpg",
+      "options": [
+        "Teatro di San Carlo",
+        "Guangzhou Drama Arts Center",
+        "Sydney Opera House",
+        "Bunkamura Orchard Hall"
+      ],
+      "correct_option": "Sydney Opera House"
+    },
+    {
+      "Question": "This famous painting from 1893 by Edvard Munch was actually stolen twice from the National Museum of Oslo, and ultimately returned.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/the-scream-painting-picture-quiz.png",
+      "options": [
+        "Mona Lisa",
+        "Starry Night",
+        "Girl with a Pearl Earring",
+        "The Scream"
+      ],
+      "correct_option": "The Scream"
+    },
+    {
+      "Question": "This famous American made car became the most popular car in the US in 1965",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/ford-mustang-picture-quiz-triva-question-car.png",
+      "options": [
+        "Ford Mustang",
+        "Ford F-Series",
+        "Chevrolet Tahoe",
+        "Chevrolet Silverado"
+      ],
+      "correct_option": "Ford Mustang"
+    },
+    {
+      "Question": "his well know world leader was assassinated by his close friend, and later written about in a famous play by a highly respected writer.",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/julius-caesar-picture-trivia-quiz.png",
+      "options": [
+        "Marcus Junius Brutus",
+        "Marc Antony",
+        "Julius Caesar",
+        "Pompey"
+      ],
+      "correct_option": "Julius Caesar"
+    },
+    {
+      "Question": "Born in 356 BCE, the well known leader had the largest empire in the world by age 33 This famous sculpture is located in Skopje and attracts millions of visitors each year:",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/alexander-the-great-picture-trivia-question.jpg",
+      "options": [
+        "Alexander the Great",
+        "Julius Caesar",
+        "Napolean",
+        "Hannibal"
+      ],
+      "correct_option": "Alexander the Great"
+    },
+    {
+      "Question": "This famous actress from the 1940’s starred in The Philadelphia Story in 1940 and went on to win 4 Oscars!",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/katherine-hepburn-photo-trivia-quiz-question.png",
+      "options": [
+        "Paulette Goddard",
+        "Rosalind Russell",
+        "Margaret Sullavan",
+        "Katharine Hepburn"
+      ],
+      "correct_option": "Katharine Hepburn"
+    },
+    {
+      "Question": "this specific breed of dog is often confused with a generic term for dogs, but is actually one specific breed:",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/pug-dog-trvia-photo-quiz-question.png",
+      "options": ["Daschund", "Pug", "Beagle", "Chihuahua"],
+      "correct_option": "Pug"
+    },
+    {
+      "Question": "This famous river is among the world’s longest waterways, and is known for its ancient, storied history as well as the archaeological sites along its shores:",
+      "ImageUrl": "https://photoshootgoals.com/wp-content/uploads/2020/04/nile-river-photo-trivia-quiz-picture-question.jpg",
+      "options": [
+        "Mississippi River",
+        "Rhine River",
+        "Danube River",
+        "The Nile River"
+      ],
+      "correct_option": "The Nile River"
+    }
+  ]
 }
