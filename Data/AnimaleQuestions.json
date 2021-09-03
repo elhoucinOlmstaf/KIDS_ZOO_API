@@ -4,10 +4,10 @@
          "id":1,
          "ImageUrl":"https://www.englishclub.com/images/kids/quizzes/animals-1/dog.png",
          "options":[
-            "59",
-            "40",
-            "7",
-            "10"
+            "cow",
+            "puppy",
+            "dog",
+            "cat"
          ],
          "correct_option":"dog"
       },
@@ -15,10 +15,10 @@
          "id":2,
          "ImageUrl":"https://www.englishclub.com/images/kids/quizzes/animals-1/duck.png",
          "options":[
-            "3",
-            "12",
-            "18",
-            "72"
+            "dog",
+            "puppy",
+            "cat",
+            "duck"
          ],
          "correct_option":"duck"
       },
@@ -112,7 +112,7 @@
       },
       {
          "id":11,
-         "ImageUrl":"https://image.flaticon.com/icons/png/512/5020/5020683.png",
+         "ImageUrl":"https://image.flaticon.com/icons/png/512/5020/5020747.png",
          "options":[
             "lion",
             "elephant",
@@ -134,14 +134,14 @@
       },
       {
          "id":13,
-         "ImageUrl":"cat",
+         "ImageUrl":"https://image.flaticon.com/icons/png/512/4696/4696246.png",
          "options":[
             "panda",
             "lion",
             "dog",
             "cat"
          ],
-         "correct_option":"https://image.flaticon.com/icons/png/512/4696/4696246.png"
+         "correct_option":"cat"
       },
       {
          "id":14,
